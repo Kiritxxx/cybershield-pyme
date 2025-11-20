@@ -2,10 +2,10 @@
   "name": "cybershield-pyme",
   "version": "1.0.0",
   "description": "Evaluador de ciberseguridad para pequeñas y medianas empresas",
-  "author": "Tu Nombre <tu-email@ejemplo.com>",
+  "author": "Junior <Pcnine550@gmail.com>",
   "license": "MIT",
   "private": true,
-  "homepage": "https://github.com/tu-usuario/cybershield-pyme",
+  "homepage": "https://Kiritxxx.github.io/cybershield-pyme",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/tu-usuario/cybershield-pyme.git"
@@ -61,4 +61,5 @@
       "last 1 safari version"
     ]
   }
+
 }
