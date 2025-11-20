@@ -5,7 +5,7 @@
   "author": "Junior <Pcnine550@gmail.com>",
   "license": "MIT",
   "private": true,
-  "homepage": "https://Kiritxxx.github.io/cybershield-pyme",
+  "homepage": "https://Kiritxxx.github.io/cybershield-pyme/",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Kiritxxx/cybershield-pyme.git"
@@ -63,3 +63,4 @@
   }
 
 }
+
